@@ -1,3 +1,5 @@
-# Thesis
+# Thesis: IoT-Enabled and Head-Gesture Controlled Wheelchair Navigation
 
-Eye-Controlled Automated Wheelchair enables users to navigate a wheelchair using eye movements and blinks. Using a Raspberry Pi for real-time processing, the system tracks eye gaze and detects blinks to control movement. Featuring precise eye-tracking algorithms, it ensures accurate and responsive mobility for disabled individuals, providing a hands-free and accessible navigation solution.
+IoT-Enabled and Head-Gesture Controlled Wheelchair Navigation empowers users to operate a wheelchair through intuitive head movements. The system employs motion sensors and a microcontroller for real-time gesture recognition, while IoT integration enables remote monitoring and data exchange. Compared to joystick and voice control approaches, it delivers greater precision, adaptability, and user comfort, offering an accessible and reliable mobility solution for individuals with disabilities.
+
+**Technologies:** Raspberry pi, IoT, Gyro Sensor, Real-Time Signal Processing
